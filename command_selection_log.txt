@@ -1,0 +1,10 @@
+25438 2024-10-27 14:17:54 - command selected:
+pwd
+25438 2024-10-27 14:17:58 - command selected:
+ls
+25438 2024-10-27 14:18:00 - command selected:
+cd
+25438 2024-10-27 14:18:03 - command selected:
+mkdir
+25438 2024-10-27 14:18:06 - command selected:
+rm
